@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/Pixopat/jwplayer7-mirror",
   "description": "An unofficial mirror for JW Player 7",
-  "main": "jwplayer.js",
+  "main": ["jwplayer.js", "jwplayer.flash.swf"],
   "keywords": [
     "jw",
 	"jw7"
